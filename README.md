@@ -1,4 +1,4 @@
 # Data-Science-Projects
-This repo contains all the projects I have done in Data Science and Machine Learning domain.
+All of my projects in the fields of data science and machine learning are contained in this repository.
 
-I have consulted various tutorials and websites in order to develop these projects. I don't claim any copyrights and only promote educational fair use. :)
+To create these projects, I have reviewed a number of guides and websites. I just support fair usage for education and make no claims to copyrights. :)
