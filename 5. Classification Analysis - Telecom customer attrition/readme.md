@@ -1,0 +1,1 @@
+In this project, I have used 5 classifier algorithms namely: Logistic Regression, Support Vector Machine, Random Forest Classifier, K Nearest Neighbor Classifier and Naive Bayes Classifier on the dataset to find and select the best model for our case
